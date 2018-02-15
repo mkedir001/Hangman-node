@@ -1,0 +1,4 @@
+exports.newWord = {
+    wordList: ['CONDO', 'LAPTOP', 'BARCELONA', 'INCEPTION', 'BOOTCAMP', 'COMPUTER', 'CHEESE', 'RAT', 'WARRIORS', 'MICHAEL JACKSON', 'GLOBE', 'MILLION DOLLAR', 'TITANIC'],
+
+};
